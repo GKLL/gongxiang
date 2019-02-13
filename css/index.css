@@ -1,0 +1,59 @@
+.main-content {
+    /* padding: .533333em; */
+}
+.ico-list {
+    display: -webkit-flex;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.533333em;
+    background: #F1F1F1;
+  }
+.ico-list li {
+    /* width: 1.6rem; */
+    text-align: center;
+    margin-right: 1.6em;
+}
+.ico-cir {
+    display: inline-block;
+    width: 1.866667rem;
+    height: 1.866667rem;
+    text-align: center;
+    line-height: 1.866667rem;
+    border-radius: 50%;
+}
+.ico-cir .iconfont {
+    color: #fff;
+    font-size: 38px;
+}
+.bg-red {
+    background: #ED9C9B;
+  }
+  .bg-pop {
+    background: #9AA6BF;
+  }
+  .bg-green {
+    background: #7FB2B2;
+  }
+
+.ico-img img {
+    display: inline-block;
+    /* width: .746667rem; */
+    height: .48rem;
+    vertical-align: middle;
+}
+.ico-tip {
+    color: #B3B3B3;
+    font-size: 12px;
+    margin-top: .266667em;
+}
+.hse .title {
+    /* border-bottom: 1px solid #DFDFDD; */
+    /* padding-left: .533333em; */
+    padding: 0.5333em;
+    font-size: 18px;
+    font-weight: bold;
+    /* -webkit-box-shadow:0 0 10px #0CC;  
+    -moz-box-shadow:0 0 10px #0CC;  
+    box-shadow:0px 0px 10px #0CC;   */
+}
