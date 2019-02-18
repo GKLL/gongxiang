@@ -1,0 +1,13 @@
+.cell_ft_right {
+    font-size: 30px;
+}
+.circle-btn {
+    /* display: -webkit-flex;
+    display: flex;
+    justify-content: space-around; */
+    text-align: center;
+}
+.circle-btn a {
+    width: 28%;
+    display: inline-block!important;
+}

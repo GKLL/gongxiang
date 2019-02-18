@@ -1,0 +1,23 @@
+.weui-navbar {
+    top: 60px!important;
+}
+.guard-title {
+    padding-left: .533333rem;
+}
+.guard-box {
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 0 .266667rem .266667rem;
+    height: 50px;
+}
+.guard-box div {
+    padding-top: 10px;
+    font-size: 20px;
+}
+.guard-box div i{
+    font-size: 32px;
+    color: #CC3333;
+    vertical-align: middle;
+}
